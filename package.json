@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/guipassos/video-maker/issues"
   },
-  "homepage": "https://github.com/guipassos/video-maker#readme"
+  "homepage": "https://github.com/guipassos/video-maker#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
