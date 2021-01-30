@@ -24,3 +24,12 @@ File: `watson-nlu.json`
     "url": ""
   }
 ```
+
+File: `google-search.json`
+
+```
+{
+  "apiKey": "",
+  "searchEngineId": "",
+}
+```
