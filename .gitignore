@@ -109,6 +109,6 @@ credentials/*.json
 # Content Files
 content.json
 content/*.png
-
+content/*.jpg
 # Mac OS
 .DS_Store
